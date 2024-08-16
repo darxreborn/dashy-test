@@ -1,5 +1,5 @@
 
-<h1 align="center">Dashy</h1>
+<h1 align="center">Dashy2</h1>
 <p align="center">
   <i>Dashy helps you organize your self-hosted services by making them accessible from a single place</i>
    <br/>
