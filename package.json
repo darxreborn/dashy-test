@@ -71,7 +71,7 @@
     "vue-template-compiler": "^2.7.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "17"
   },
   "eslintConfig": {
     "root": true,
